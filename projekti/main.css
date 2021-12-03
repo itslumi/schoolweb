@@ -1,0 +1,51 @@
+body{
+    font-family: "Mate", serif;
+    background-color: #f6f6f6;
+}
+
+#div1{
+    margin-top: -150px;
+    margin-left: 500px;
+    height: 700px;
+    width: 500px;
+    border-radius: 5px;
+}
+#div2{
+    background-color: #0EAD69;
+    border-radius: 10px;
+}
+#academic{
+    margin-top: 50px;
+    height: 150px;
+    width: 200px;
+}
+#books1{
+    margin-left: 250px;
+    margin-top: -150px;
+    height: 150px;
+    width: 200px;
+}
+#books2{
+    margin-top: 20px;
+    height: 150px;
+    width: 200px;
+}
+#icons{
+    height: 150px;
+    width: 250px;
+    margin-left: 1100px;
+    margin-top: 50px;
+}
+#socials{
+    width: 200px;
+    margin-left: 250px;
+    margin-top: -150px;
+}
+#input{
+    width: 190px;
+    margin-left: -13px;
+}
+#kalendari{
+    margin-top: 50px;
+    margin-left: 500px;
+}
